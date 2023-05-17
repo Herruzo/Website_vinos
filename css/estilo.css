@@ -1,0 +1,268 @@
+body {
+    margin: 0 auto;
+    padding: 0px;
+    width: 1200px;
+    font-size: 13px;
+    background-size: 100% auto;
+    line-height: 18px;
+    font-family: Georgia, Times,  serif;
+        
+}
+p {
+    font-family: cursive;
+    padding: 10px;
+    text-indent: 10px;
+}
+
+.float {
+    float: left;
+}
+
+#div_header {       
+    width: 100%;    
+    background-color: white;
+    margin: 0 auto;  
+    
+}
+#logo {
+    width: 250px;
+    height: auto;
+    top: 0px;
+    float: left;
+        
+}
+.text_center {
+    text-align: center;
+}
+.cursive {
+    font-family: cursive;
+}
+.slogan {
+    width: 780px;
+    height: 45px;    
+    margin: 0px;
+    padding: 8px;    
+    color: purple;    
+    font-size: 22px;
+    float: right;
+}
+
+.div_menu {         
+    height: 30px;    
+    width: 100%;       
+    display: inline-block;      
+    
+}
+.purple {
+    background-color: purple;
+    
+}
+.boton_menu {
+    display: inline-block;    
+    width: 170px;     
+    border-radius: 10px;        
+    height: 100%;         
+
+} 
+.tex_menu {
+    text-align: right;    
+    text-decoration: none;
+    font-size: 25px;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+   
+}       
+.boton_menu:hover {
+    background: violet;
+}
+.contenedor {
+    margin: 0 auto;    
+    width: 100%;
+    max-width: 1200px;
+    
+    
+}
+
+section {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 880px;
+    height: 100%;    
+    float: left;
+    
+    
+    
+}
+.formulario {
+    width: 800px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+    
+    
+}
+.form {    
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
+
+.container_productos {
+    width: 900px;
+    height: 400px;    
+    margin: 0 auto;  
+
+}
+.background {
+    background: #ebdef0;
+}
+.producto {
+    width: 300px;
+    height: 350px;    
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.producto:hover {
+    border: black solid 0.5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px grey;
+}
+.img_producto {
+    width: 300px;
+    height: 300px;
+    
+}
+.caja_gris {
+    background-color: #f2f2f2;
+    width: 300px;
+}
+#mapa {
+    margin-left: 150px;
+    
+}
+
+.article {    
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+#bodega {
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+    height: auto;
+    
+    
+}
+#campo {
+    float: right;
+    margin-right: 10px;
+    width: 400px;
+    height: auto;
+}
+#copas {
+    float: left;
+    margin-right: 20px;
+    width: 400px;
+    height: auto;
+}
+aside {
+    margin-top: 0px;    
+    min-height: 300px;
+    float: left;
+    width: 250px;
+    
+}
+aside div {
+    width: 100%;
+    margin: auto;
+    
+}
+.logo3_text {   
+    width: 100%;   
+    
+}
+#logo3 {
+    margin-top: 10px;
+}
+
+.aside_menu {        
+    height: auto;    
+    width: 100%;   
+    margin-bottom: 30px;  
+    
+}
+.aside_text_menu {    
+    text-decoration: none;
+    font-size: 25px;
+}
+.aside_boton_menu {
+    display: inline-block;
+    text-align: center;    
+    width: 100%;
+    height: 100%;
+    
+}.aside_boton_menu:hover {
+    background: violet;    
+    
+}
+.aside1 {    
+    width: 250px;
+
+}
+#aside1 {
+    width: 250px;
+    height: auto;
+}
+
+.aside2 {    
+    width: 250px;
+}
+#aside2 {
+    width: 250px;
+    height: auto;
+}
+.footer {    
+    width: 100%;
+    height: 270px;    
+    background-size: cover;
+    display: inline-block;
+}
+.aviso_legal {    
+    width: 400px;
+    
+}
+.direccion {    
+    width: 400px;
+    
+}
+.siguenos {
+    width: auto;
+}
+
+.margin_left {
+    margin-left: 10px;
+}
+.redes {    
+    width: 400px;
+    
+}
+.cajas_pie {    
+    height: 250px;
+
+}
+.text_blanco {
+    color: white;
+
+}
+.texto_subrayado {
+    text-decoration: none;
+}
+.copyright {
+    height: 50px;
+}
